@@ -19,10 +19,7 @@ pipeline {
 				echo "Integration Test"
 			}
 		}
-	} post {
-		sucess {
-			echo 'I am awesome, I run always'
-		}
-	}
+	} 
 	
 }
+	
