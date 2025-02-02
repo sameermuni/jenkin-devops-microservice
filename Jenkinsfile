@@ -4,4 +4,3 @@ node {
 	echo "Test"
 	echo "Build"
 	}
-}
